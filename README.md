@@ -3,4 +3,7 @@ This project is regarding the android training provided by Learn IT girl website
 The training schedule includes:</p>
 1. Introduction to Java programming language.</p>
 2. Introduction to android application development.</p>
-3. Simple project development after the training is complete
+3. Simple project development after the training is complete</p>
+# Beat_Box (The Sound Wizard)
+The application which will be a hassle free solution of all the triming and editing related problems of recorded as well as pre loaded audio files on your device.</p>
+This applcation will be the two in one option for both recording as well as editing audio files on your endroid devices.</p>
