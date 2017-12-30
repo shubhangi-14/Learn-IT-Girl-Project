@@ -4,23 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.shubhangi.beat_box.MainActivity">
+    tools:context="com.example.hp.beat_box.MainActivity">
 
-    <ImageButton
-        android:id="@+id/TrimButton"
-        android:layout_width="130dp"
-        android:layout_height="130dp"
-        android:layout_marginEnd="40dp"
-        android:layout_marginStart="75dp"
-        android:layout_marginTop="300dp"
-        android:adjustViewBounds="true"
-        android:backgroundTint="@color/colorPrimary"
-        android:scaleType="fitCenter"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="1.0"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/images" />
 
     <ImageButton
         android:id="@+id/RecordButton"
@@ -28,32 +13,32 @@
         android:layout_height="155dp"
         android:layout_marginEnd="75dp"
         android:layout_marginStart="75dp"
-        android:layout_marginTop="108dp"
+        android:layout_marginTop="84dp"
         android:adjustViewBounds="true"
         android:backgroundTint="@color/colorPrimary"
-        android:onClick="addListenerOnButton"
+        android:onClick="recordOnButtonClick"
         android:scaleType="fitCenter"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.509"
+        app:layout_constraintHorizontal_bias="0.506"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/mic3" />
 
     <ImageButton
         android:id="@+id/MergeButton"
-        android:layout_width="130dp"
-        android:layout_height="130dp"
+        android:layout_width="155dp"
+        android:layout_height="155dp"
         android:layout_marginEnd="75dp"
         android:layout_marginStart="40dp"
-        android:layout_marginTop="300dp"
+        android:layout_marginTop="284dp"
         android:adjustViewBounds="true"
         android:backgroundTint="@color/colorPrimary"
         android:scaleType="fitCenter"
+        android:onClick="mergeOnButtonClick"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintHorizontal_bias="0.625"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/merge" />
-
 
 </android.support.constraint.ConstraintLayout>
