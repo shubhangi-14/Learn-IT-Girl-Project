@@ -13,4 +13,5 @@ Right now only toast messages are shown on button clicks.</p>
 <img src="https://user-images.githubusercontent.com/26011003/33242141-329cd418-d2f6-11e7-94c1-f81777f12462.png" height="400" width="200"></img></p>
 <img src="https://user-images.githubusercontent.com/26011003/33242142-32ef84ba-d2f6-11e7-8dd3-8fc323057519.png" height="400" width="200"></img></p>
 <img src="https://user-images.githubusercontent.com/26011003/33242143-33439c08-d2f6-11e7-9198-9c6b503f8c08.png" height="400" width="200"></img></p>
-
+# Project Conclusion
+This project has been a great learning experience for me. Through this I was able to develope my application developement skills. The application is still in developemental stage. I will continue working on this project beacause i am halfway there. The code has some errors which will be rectified soon, meanwhile I have commited the code as on 21st January on the repository.</p>
